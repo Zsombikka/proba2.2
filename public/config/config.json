@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3a5A790Ad63A4E0aCea3fB61748B128aF95aFF35",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x3a5a790ad63a4e0acea3fb61748b128af95aff35",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "proba NFT",
+  "SYMBOL": "pro",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/alien-invasion-yugfszvmxh",
+  "SHOW_BACKGROUND": true
+}
